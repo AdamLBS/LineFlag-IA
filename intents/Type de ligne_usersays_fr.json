@@ -1,0 +1,236 @@
+[
+  {
+    "id": "fb02eee8-97cb-4a84-b9f5-cdfb367d84eb",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression sur la ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "15S",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c3a7ce0-6988-4151-ba19-3844cf325190",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression sur la ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "24B",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fdfc253-7225-48f1-a8a4-af735f49c2ee",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression dans le métro ",
+        "userDefined": false
+      },
+      {
+        "text": "M1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ead04035-167d-4e99-a088-f0aacc632a71",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression dans ",
+        "userDefined": false
+      },
+      {
+        "text": "le tramway",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "T2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5873659f-8be5-4f38-bde8-f5c61ec54d42",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression sur la ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "22",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b95d4479-3161-49ef-b6f7-3cbebe1343bf",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression sur la ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "B1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d84bdb5-c899-47cd-9ab9-418fe8449fcf",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression sur la ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "24",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "826cd89d-21ea-4614-af5b-350aa72634fd",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression sur la ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "M2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "feb4e64a-9fb6-4a68-956e-e779cc389b7d",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression dans le ",
+        "userDefined": false
+      },
+      {
+        "text": "métro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ae51aba-8758-4496-aa08-18e681c14808",
+    "data": [
+      {
+        "text": "Combien il y a eu d\u0027agression dans le ",
+        "userDefined": false
+      },
+      {
+        "text": "métro 1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1b3e88a-759f-421d-aefb-d8398bb03dcd",
+    "data": [
+      {
+        "text": "J\u0027aimerai signaler ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " agression dans le ",
+        "userDefined": false
+      },
+      {
+        "text": "métro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

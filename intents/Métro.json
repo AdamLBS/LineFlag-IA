@@ -1,0 +1,95 @@
+{
+  "id": "b01729de-393e-4bb0-a649-457413a2cf8c",
+  "parentId": "acbd319e-0c10-427c-a41d-26b0b5c8453f",
+  "rootParentId": "acbd319e-0c10-427c-a41d-26b0b5c8453f",
+  "name": "Métro",
+  "auto": true,
+  "contexts": [
+    "LineSelectIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LineSelectIntent.LineSelectIntent-selectnumber",
+      "affectedContexts": [
+        {
+          "name": "Mtro-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "41ea4f2a-a579-417f-927d-c0f831313782",
+          "required": true,
+          "dataType": "@metro-line",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Veuillez choisir une ligne (M1 où B1 par exemple)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "fr",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "M1"
+            },
+            {
+              "title": "M2"
+            },
+            {
+              "title": "B1"
+            },
+            {
+              "title": "B2"
+            },
+            {
+              "title": "B3A"
+            },
+            {
+              "title": "24"
+            },
+            {
+              "title": "83"
+            },
+            {
+              "title": "521"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

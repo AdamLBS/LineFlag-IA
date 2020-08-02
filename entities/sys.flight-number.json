@@ -1,0 +1,9 @@
+{
+  "id": "73cbedbd-c018-4762-b102-689285817fb3",
+  "name": "sys.flight-number",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

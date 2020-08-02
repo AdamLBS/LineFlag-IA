@@ -1,0 +1,30 @@
+[
+  {
+    "value": "metro",
+    "synonyms": [
+      "metro",
+      "métro"
+    ]
+  },
+  {
+    "value": "bus",
+    "synonyms": [
+      "bus",
+      "ligne de bus"
+    ]
+  },
+  {
+    "value": "bus de nuit",
+    "synonyms": [
+      "bus de nuit",
+      "bus nocturne"
+    ]
+  },
+  {
+    "value": "tramway",
+    "synonyms": [
+      "tramway",
+      "tram"
+    ]
+  }
+]

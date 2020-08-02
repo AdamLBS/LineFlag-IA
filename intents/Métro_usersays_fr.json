@@ -1,0 +1,261 @@
+[
+  {
+    "id": "e244d3ff-92b4-4aaf-a9b7-969e1e96c3be",
+    "data": [
+      {
+        "text": "M2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e675fe9b-4bc6-40e9-abc0-7b21c3abf82b",
+    "data": [
+      {
+        "text": "M1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10504c76-b7ec-4c42-a328-a93f830509da",
+    "data": [
+      {
+        "text": "24B",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74f77457-d033-4cdf-9c93-743d8b30b493",
+    "data": [
+      {
+        "text": "B1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d84b3ec3-7fb2-4625-831f-de1867286e07",
+    "data": [
+      {
+        "text": "Bus 21",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf05dd1a-5258-447f-8509-dc71cfe2ac84",
+    "data": [
+      {
+        "text": "21",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ab4b11c-107e-4c33-a78c-84db787a8633",
+    "data": [
+      {
+        "text": "541",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06dba048-a01f-4fc1-9cff-10077c5bfba6",
+    "data": [
+      {
+        "text": "5",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df6039b1-6c76-41e5-bf42-bcb49864a695",
+    "data": [
+      {
+        "text": "Ligne 5",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97654d28-40a2-4c9c-b795-bb3de1ecda34",
+    "data": [
+      {
+        "text": "Ligne 3",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f647ada5-d955-437a-8943-f191b8326762",
+    "data": [
+      {
+        "text": "Ligne 2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4ad67281-1d0e-45f1-81fd-b6ffad319fc7",
+    "data": [
+      {
+        "text": "Bus 2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3c724df1-9ce9-4cd5-b97e-cabc09d2e4b5",
+    "data": [
+      {
+        "text": "ligne 1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "6fa0ad95-472c-457b-93eb-c58ef9959c16",
+    "data": [
+      {
+        "text": "métro ",
+        "userDefined": false
+      },
+      {
+        "text": "M1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "f04d9542-9205-4f82-bb1b-0c57a11e26d5",
+    "data": [
+      {
+        "text": "Sur la ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "M1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbea0f09-b664-404f-9c10-c27599ee10ea",
+    "data": [
+      {
+        "text": "Ligne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "M1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4299f56-5057-4d80-a240-11c83d9610af",
+    "data": [
+      {
+        "text": "ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "M2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

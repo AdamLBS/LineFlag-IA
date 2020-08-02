@@ -1,0 +1,228 @@
+[
+  {
+    "id": "91713934-df7d-4bae-a4b5-91f4fb53a6d1",
+    "data": [
+      {
+        "text": "la ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "B2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84b0ecab-1b22-44b0-bc6a-d99825d5e9ff",
+    "data": [
+      {
+        "text": "la ligne ",
+        "userDefined": false
+      },
+      {
+        "text": "M2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de4a9cd8-0fc0-4a2f-86c9-de4683ca7026",
+    "data": [
+      {
+        "text": "B2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57b942b9-9493-4aa5-91b7-0754e0b47077",
+    "data": [
+      {
+        "text": "B1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83ca35dd-5dbc-4b4a-822a-7b8ef0b91fa6",
+    "data": [
+      {
+        "text": "2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59feac27-5735-44b8-9590-2f04db05e48a",
+    "data": [
+      {
+        "text": "M2",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17f092f4-07fd-40f9-8d37-8071f0322dcf",
+    "data": [
+      {
+        "text": "M1",
+        "alias": "location",
+        "meta": "@metro-line",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "119292ed-6fae-41e7-850f-13f71078be23",
+    "data": [
+      {
+        "text": "montre-moi la suite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bebd3f54-f3a0-4aed-8f60-b319121ba406",
+    "data": [
+      {
+        "text": "lis-moi les résultats suivants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "915ffcd6-d430-4b55-a844-e945592070a3",
+    "data": [
+      {
+        "text": "page suivante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf689f89-6999-4323-932d-1242c906c4d3",
+    "data": [
+      {
+        "text": "continue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "580591f0-1162-4990-a61b-3f54132f66d2",
+    "data": [
+      {
+        "text": "va à la page suivante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51a2ec2c-fcb3-47d9-a1ea-c3d7170891bf",
+    "data": [
+      {
+        "text": "montre-moi les résultats suivants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4632e95b-ebfb-4bf3-aa48-e79debe4fe89",
+    "data": [
+      {
+        "text": "montre-moi la page suivante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c512be19-0026-4787-8077-137630abdb3c",
+    "data": [
+      {
+        "text": "résultat suivant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efeaf823-6d3b-4855-a9c1-a6f324d41208",
+    "data": [
+      {
+        "text": "passe au suivant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cc5dfce-b260-42f4-a3c8-e46755806773",
+    "data": [
+      {
+        "text": "suivant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

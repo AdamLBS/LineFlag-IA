@@ -1,0 +1,122 @@
+[
+  {
+    "id": "9ace3364-34d5-4db1-ac7d-fb2b5ba0a33e",
+    "data": [
+      {
+        "text": "ignorer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cf0f33e-3b01-440a-b13d-a8bce4e61839",
+    "data": [
+      {
+        "text": "arrêter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe678a38-b8dd-497e-93df-ff4673119c11",
+    "data": [
+      {
+        "text": "passer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c16cf81d-5291-4d2f-9369-3098466d3654",
+    "data": [
+      {
+        "text": "oublie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7c4e5d3-1cee-438a-95c4-4c831ce6bca7",
+    "data": [
+      {
+        "text": "ne fais rien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d20bd4cf-3f27-41ec-a0b2-076a790f5f56",
+    "data": [
+      {
+        "text": "annule ça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88a57a4c-d65b-4ffe-88ce-270df86ecc16",
+    "data": [
+      {
+        "text": "abandonne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e181a38b-65bb-42a5-b2f8-e737eb159944",
+    "data": [
+      {
+        "text": "oublie ça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8ad06ea-a834-4a30-81fb-a76aba0f7c25",
+    "data": [
+      {
+        "text": "arrête",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0bb64c5-0b79-4b69-abc7-96e64d2cbf13",
+    "data": [
+      {
+        "text": "annuler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

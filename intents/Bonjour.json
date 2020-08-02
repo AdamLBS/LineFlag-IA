@@ -1,0 +1,81 @@
+{
+  "id": "fabeda6c-9e3f-4b27-9615-490097c7dd27",
+  "name": "Bonjour",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Bonjour-followup",
+          "parameters": {},
+          "lifespan": 100
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "fr",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "M1"
+            },
+            {
+              "title": "M2"
+            },
+            {
+              "title": "B1"
+            },
+            {
+              "title": "B2"
+            },
+            {
+              "title": "24"
+            },
+            {
+              "title": "83"
+            },
+            {
+              "title": "521"
+            },
+            {
+              "title": "T2"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Je suis un robot vous permettant de connaitre le nombre d\u0027agression signalées sur l\u0027application LineFlag !"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Sur quelle ligne souhaitez vous avoir des informations?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

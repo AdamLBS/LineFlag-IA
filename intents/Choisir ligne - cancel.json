@@ -1,0 +1,36 @@
+{
+  "id": "2155a536-3212-4126-bac2-33536290f1d9",
+  "parentId": "8d1195a1-5f35-4672-8cd2-6377d11d383b",
+  "rootParentId": "fabeda6c-9e3f-4b27-9615-490097c7dd27",
+  "name": "Choisir ligne - cancel",
+  "auto": true,
+  "contexts": [
+    "Choisirligne-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Bonjour.Bonjour-next.Choisirligne-cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

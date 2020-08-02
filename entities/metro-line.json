@@ -1,0 +1,9 @@
+{
+  "id": "32bd866b-a51e-43ed-8381-0164182c8ace",
+  "name": "metro-line",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

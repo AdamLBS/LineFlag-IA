@@ -1,0 +1,96 @@
+{
+  "id": "acbd319e-0c10-427c-a41d-26b0b5c8453f",
+  "name": "Type de ligne",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LineSelectIntent.LineSelectIntent-selectnumber",
+      "affectedContexts": [
+        {
+          "name": "LineSelectIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "LineSelectIntent-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5ee5996d-5ca1-43be-93ca-aa95df8bd7ec",
+          "required": true,
+          "dataType": "@metro-line",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Veuillez choisir une ligne"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "fr",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "M1"
+            },
+            {
+              "title": "M2"
+            },
+            {
+              "title": "B1"
+            },
+            {
+              "title": "B2"
+            },
+            {
+              "title": "15"
+            },
+            {
+              "title": "24"
+            },
+            {
+              "title": "83"
+            },
+            {
+              "title": "521"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Veuillez choisir une ligne"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
